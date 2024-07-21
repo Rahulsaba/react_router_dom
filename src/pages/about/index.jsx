@@ -1,4 +1,4 @@
-import { Links } from "../../path";
+import { Links } from "@/path";
 
 export default function About() {
     return (
